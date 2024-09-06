@@ -1,8 +1,8 @@
-version: 1.2.51
+version: 1.2.52
 files:
   - url: SnakeBrowser.exe
-    sha512: FZ5PGpGErafDtMu4Chf1j2JO4QAhEQOEgMVvy3Sx5fmoKeQkc+6V4t5f/4k7yjrDee96A8HrVy96OvESk/NiOQ==
-    size: 59101925
+    sha512: WKekBB6ct+MkeOY3Fdc9aaGgLCoDytAunShccCNtLquYabNEiYeI0Mbqic5fIGK0EtjG2uPDIPeTIPW27PSaNg==
+    size: 59105740
 path: SnakeBrowser.exe
-sha512: FZ5PGpGErafDtMu4Chf1j2JO4QAhEQOEgMVvy3Sx5fmoKeQkc+6V4t5f/4k7yjrDee96A8HrVy96OvESk/NiOQ==
-releaseDate: '2024-09-06T13:07:07.994Z'
+sha512: WKekBB6ct+MkeOY3Fdc9aaGgLCoDytAunShccCNtLquYabNEiYeI0Mbqic5fIGK0EtjG2uPDIPeTIPW27PSaNg==
+releaseDate: '2024-09-06T20:44:02.007Z'
